@@ -66,6 +66,3 @@
 
    git push origin master  Git会把master分支推送到远程库对应的远程分支
 ---------- 
-这是新插入的一行
-11111111
-这是一个测试文件，进行gitbash的测试
