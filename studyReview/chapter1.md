@@ -68,7 +68,7 @@
 
 ![]("https://github.com/2500664779/OperationSystem/raw/master/studyReview/pictures/1.3.jpg")
 
-![](.\pictures\1.3.jpg)
+![](pictures/1.3.jpg)
 
 #### 3.2中断和异常  
 >* 为了解决串行效率底下的问题，引入**中断机制**，实现了多道程序并发执行。发生中断就意味着**需要操作系统介入**
