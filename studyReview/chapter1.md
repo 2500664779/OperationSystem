@@ -66,4 +66,4 @@
 >* 存储器管理
 >* 设备管理器  
 
-![知识回顾](pictures\1.3.jpg)
+![hdfsfdjks](https://github.com/2500664779/OperationSystem/raw/master/studyReview/pictures/1.3.jpg)
