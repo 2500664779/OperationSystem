@@ -67,6 +67,7 @@
 >* 设备管理器  
 
 ![]("https://github.com/2500664779/OperationSystem/raw/master/studyReview/pictures/1.3.jpg")
+
 ![](.\pictures\1.3.jpg)
 
 #### 3.2中断和异常  
