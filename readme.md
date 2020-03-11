@@ -22,7 +22,7 @@
 
    git reset  –hard HEAD^ 或者 git reset  –hard HEAD~ 回退到上一个版本
 
-                        (如果想回退到100个版本，使用git reset –hard HEAD~100 )
+      (如果想回退到100个版本，使用git reset –hard HEAD~100 )
 
    cat XX         查看XX文件内容
 
