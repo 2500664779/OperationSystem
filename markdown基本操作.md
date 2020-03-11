@@ -19,7 +19,7 @@ n个...
 ![图片alt](图片地址 ''图片title'')
 #### 不同编辑器中似乎显示的方式不同
     ![]("https://github.com/2500664779/OperationSystem/raw/master/studyReview/pictures/1.3.jpg")
-    ![](.\pictures\1.3.jpg)
+    ![](pictures\1.3.jpg)
 分别为github和vscode编辑器中查看的方式
 # 六、超链接
 [超链接名][超链接地址]
