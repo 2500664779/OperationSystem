@@ -70,3 +70,6 @@ cond(yes)->e
 cond(no)->op
 &```  
 ```
+
+    \[fjdskalfjdsaklfja \] 可以居中
+\[fjdskalfjdsaklfja \]
