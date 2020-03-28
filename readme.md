@@ -66,3 +66,16 @@
 
    git push origin master  Git会把master分支推送到远程库对应的远程分支
 ---------- 
+gitignore 的匹配规则：
+```
+#以此开头的行为注释行
+.a #过滤所有 .a 结尾的文件
+/a/ #过滤根目录下的 a 文件夹下的所有文件
+/a/do.c #过滤指定文件 /a/do.c
+!lib.a #从过滤的文件中排除 lib.a
+!/a/b #从过滤的文件中排除 根目录下a目录下的b文件
+!.c #从过滤的文件中排除所有.c文件
+/TODO #仅仅过滤项目根目录下的 TODO 文件,不包括subdir/TODO
+build/ #过滤 build/目录下的所有文件
+doc/*.txt #过滤doc下所有txt文件,但不包括子目录下的txt文件,如doc/server/arch.txt
+```
