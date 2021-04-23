@@ -117,3 +117,6 @@ doc/*.txt #过滤doc下所有txt文件,但不包括子目录下的txt文件,如d
 - `git push origin` -------如果当前分支与远程分支存在追踪关系，则本地分支和远程分支都可以省略，将当前分支推送到origin主机的对应分支 
 - `git push` -------如果当前分支只有一个远程分支**或者设定了默认的远程仓库**，那么主机名都可以省略，形如 git push，可以使用git branch -r ，查看远程的分支名
 - `git push -u origin master` -------如果当前分支存在多个追踪关系，可以使用`-u`设定默认主机
+
+## git merge详解
+- `git merge <分支名称>` -------将选中的分支名称合并到当前分支，选中的分支名称可以是本地远程仓库的分支，如`origin/master`、`upstream/dev`等
